@@ -1,0 +1,17 @@
+{
+  "name": "MemVault",
+  "short_name": "MemVault",
+  "description": "Never forget important information again with MemVault - your personal memory management system",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+} 
